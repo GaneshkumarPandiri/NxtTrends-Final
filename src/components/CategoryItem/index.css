@@ -1,0 +1,22 @@
+.category-list {
+  list-style-type: none;
+}
+.button-style {
+  background-color: transparent;
+  height: 30px;
+  border: 2px solid #bfbfbf;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  font-weight: bolder;
+  color: #64748b;
+}
+.selected-category {
+  border: 2px solid #0967d2;
+  color: #0967d2;
+}
+.para-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5px;
+}
